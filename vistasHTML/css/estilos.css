@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to left, #33a8ff, #819eb2);
+
+}
+
+input{
+    margin-bottom: 5px;
+    height: 30px;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+div{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#ingresar{
+    background-color:aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+    width: 200px;
+
+}
